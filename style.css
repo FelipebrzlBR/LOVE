@@ -1,5 +1,6 @@
   body { background: linear-gradient(90deg, black, navy, black);
 }
 
-#b { color: green;
+#para1 { color: green;
+         text-align: center;
 }

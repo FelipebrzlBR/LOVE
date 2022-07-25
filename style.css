@@ -1,7 +1,7 @@
   body { background: linear-gradient(90deg, black, navy, black);
 }
 
-.center {
+#center {
   text-align: center;
   color: red;
 }

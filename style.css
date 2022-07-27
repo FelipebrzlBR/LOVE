@@ -4,4 +4,6 @@
 #center {
   text-align: center;
   color: red;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-size: 10px;
 }

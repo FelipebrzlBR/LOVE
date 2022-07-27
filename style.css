@@ -3,7 +3,18 @@
 
 #center {
   text-align: center;
+  text-shadow: 2px 2px 5px black;
   color: white;
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   font-size: 18px;
+}
+
+#asd {
+  border-radius: 25px;
+  align-items: center;
+  
+  
+  
+
+  
 }

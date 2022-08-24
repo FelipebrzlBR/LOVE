@@ -1,12 +1,9 @@
-  body { background-color:  navy;
+ body { background-image: linear-gradient(45deg, red, darkblue);
+         font-family: arial, sans-serif;
 }
 
 #center {
-  text-align: center;
-  text-shadow: 2px 2px 5px black;
   color: white;
-  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-  font-size: 28px;
 }
 
 
@@ -14,15 +11,4 @@
   font-size: 20px;
   color: white;
   font-family: sans-serif;
-}
-
-#asd {
-  border-radius: 10px;
-  margin-left: auto;
-  margin-right: auto;
-  
-  
-  
-
-  
 }

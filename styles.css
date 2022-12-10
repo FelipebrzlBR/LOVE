@@ -1,6 +1,5 @@
 body{
-  background-color: rgb(180, 0, 0); /* For browsers that do not support gradients */
-  background-image: linear-gradient(to bottom right, red, black);
+  background-color: rgb(180, 0, 0);
 }
 
 h1{ 
